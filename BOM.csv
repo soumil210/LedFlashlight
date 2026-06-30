@@ -1,0 +1,8 @@
+Item,Reference,Quantity,Value,Manufacturer,Manufacturer Part Number,Footprint,Supplier,Supplier Part Number,Unit Price (EUR),Extended Price (EUR),Supplier Link
+1,BT1,1,CR1225 Battery Holder,Harwin,S8201-46R,Harwin:S8201-46R,Farnell,2056606,0.72,0.72,https://nl.farnell.com/en-NL/harwin/s8201-46r/holder-coin-cell-cr-br1225/dp/2056606
+2,B1,1,3V Coin Cell,Panasonic,CR1225,CR1225,DigiKey,P007-ND,0.41,0.41,https://www.digikey.nl/en/products/detail/panasonic-bsg/CR-1225-HFN/31952
+3,D1,1,White LED 5mm,Kingbright,L-53MWC,LED_THT:LED_D5.0mm,Farnell,2290323,0.11,0.11,https://nl.farnell.com/kingbright/l-53mwc/led-white-5mm-6500k-1500mcd/dp/2290323
+4,SW1,1,SPST Slide Switch,C&K,JS102011SAQN,Button_Switch_THT:SW_Slide_SPST,CPC,SW05200,0.55,0.55,https://cpc.farnell.com/c-k-components/js102011saqn/slide-switch-spst-300ma-6vdc/dp/SW05200
+5,D2,1,Schottky Diode (Optional),onsemi,1N5819RLG,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,Farnell,1467805,0.12,0.12,https://nl.farnell.com/onsemi/1n5819rlg/diode-schottky-1a-40v-do-41/dp/1467805
+,,,,,,,,,,
+,,,,,,,,,Total (€),1.91
